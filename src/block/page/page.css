@@ -1,0 +1,12 @@
+.page{
+  display: grid;
+  grid-template-columns: 80% 20%;
+  grid-template-rows: 10% 90%;
+  max-width: 1280px;
+  width: auto;
+  height: 100vh;
+  /* background-color: bisque; */
+  margin-left: auto;
+  margin-right: auto;
+
+}

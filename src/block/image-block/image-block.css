@@ -1,0 +1,9 @@
+.image-block{
+  grid-column: 1/2;
+  grid-row:2/3;
+  width: 100%;
+  height: 100%;
+  background-image: url('../../image/2022-05-16_12-29-49.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
