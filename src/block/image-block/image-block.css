@@ -1,6 +1,6 @@
 .image-block{
-  /* position: relative; */
-  /* z-index: 1; */
+  position: relative;
+  z-index: 1;
   grid-column: 1/2;
   grid-row:2/3;
   width: 100%;
