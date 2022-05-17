@@ -1,4 +1,4 @@
-@keyframes scale_animation {
+@keyframes translate_animation {
   from{
     transform: translate(0px);
   }
@@ -16,6 +16,6 @@
   height: 100px;
   left: 300px;
   top: 350px;
-  animation: scale_animation 1s linear infinite alternate;
+  animation: translate_animation 1s linear infinite alternate;
   transition: transform 0.1s linear 0.1s;
 }

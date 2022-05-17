@@ -3,7 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0" />
+    <meta
+      name="viewport"
+      content="width=device-width, height=device-height, initial-scale=1.0"
+    />
     <meta name="description" content="literary_route" />
     <meta name="keywords" content="map, literary route" />
     <meta name="author" content="Karakulin Aleksey" />
@@ -17,26 +20,40 @@
       <h2 class="header__subtitle page__font">Интерактивная карта</h2>
     </section>
 
-      <section class="image-block">
-        <img src="./src/image/point.png" alt="точка" class="image-block__item">
-        <img src="./src/image/arrow.png" alt="стрелка" class="image-block__arrow-anim">
-      </section>
+    <section class="image-block">
+      <img
+        src="./src/image/point.png"
+        alt="точка"
+        class="image-block__animation_point"
+      />
+      <!-- <img
+        src="./src/image/arrow.png"
+        alt="стрелка"
+        class="image-block__animation_arrow"
+      /> -->
+      <div class="image-block__animation_arrow-left">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </section>
 
-      <ul class="menu page__font">
-        <li class="menu__text-block">
-          <p class="menu__text-block_item ">Список книг:</p>
-        </li>
-        <li class="menu__text-block">
-          <p class="menu__text-block_item text-light">2 маршрут</p>
-        </li>
-        <li class="menu__text-block">
-          <p class="menu__text-block_item text-light">3 маршрут</p>
-        </li>
-        <li class="menu__text-block">
-          <p class="menu__text-block_item text-light">4 маршрут</p>
-        </li>
-      </ul>
-
-
+    <ul class="menu page__font">
+      <li class="menu__text-block">
+        <p class="menu__text-block_item">Список книг:</p>
+      </li>
+      <li class="menu__text-block">
+        <p class="menu__text-block_item text-light">2 маршрут</p>
+      </li>
+      <li class="menu__text-block">
+        <p class="menu__text-block_item text-light">3 маршрут</p>
+      </li>
+      <li class="menu__text-block">
+        <p class="menu__text-block_item text-light">4 маршрут</p>
+      </li>
+    </ul>
   </body>
 </html>

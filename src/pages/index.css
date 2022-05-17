@@ -10,6 +10,9 @@
 
 @import url('../block/image-block/image-block.css');
 @import url('../block/image-block/__item/image-block__item.css');
+@import url('../block/image-block/__animation/image-block__animation_point.css');
+@import url('../block/image-block/__animation/image-block__animation_arrow.css');
+@import url('../block/image-block/__animation/image-block__animation_arrow-left.css');
 
 @import url('../block/menu/menu.css');
 @import url('../block/menu/__text-block/menu__text-block.css');
