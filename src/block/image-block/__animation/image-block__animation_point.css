@@ -9,12 +9,14 @@
 }
 
 .image-block__animation_point{
-    position: absolute;
-    z-index: 2;
+    /* position: absolute;
+    z-index: 2; */
     width: 70px;
     height: 100px;
-    left: 300px;
-    top: 350px;
+    /* left: 300px;
+    top: 350px; */
+    margin-top: 20%;
+    margin-left: 20%;
     animation: scale_animation 1s linear infinite alternate;
     transition: transform 0.1s linear 0.1s;
 }
