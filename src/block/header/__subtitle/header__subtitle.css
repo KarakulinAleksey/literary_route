@@ -1,7 +1,27 @@
 .header__subtitle{
   margin: 0;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 16px;
   margin-top: 20px;
+}
+
+@media screen and (max-width: 848px) {
+  .header__subtitle {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 710px) {
+  .header__subtitle {
+    font-size: 12px;
+    margin-top: 14px;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .header__subtitle {
+    font-size: 10px;
+    margin-top: 2px;
+  }
 }

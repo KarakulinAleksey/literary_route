@@ -1,0 +1,8 @@
+.popup__title-out{
+  margin: 0;
+  grid-row: 1/2;
+  grid-column: 3/4;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-self: center;
+}

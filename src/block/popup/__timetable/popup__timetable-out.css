@@ -1,0 +1,8 @@
+.popup__timetable-out{
+  margin: 0;
+  grid-row: 3/4;
+  grid-column: 1/2;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-self: center;
+}

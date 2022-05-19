@@ -14,20 +14,23 @@
 
 .image-block__animation_arrow-left{
   position: absolute;
-  left: 200px;
-  top: 500px;
+  left: 54%;
+  top: 45%;
 }
 
 .image-block__animation_arrow-left span{
   display: block;
   width: 10px;
   height: 10px;
-  border-bottom: 3px solid #ff3140;
+  border-top: 3px solid #ff3140;
   border-left: 3px solid #ff3140;
+  /* border-bottom: 3px solid #ff3140;
+  border-left: 3px solid #ff3140;  */
 
   margin: 4px;
   animation: arrow-left 1s infinite;
-  float: left;
+  /* float: left; */
+  float: none;
 }
 
 .image-block__animation_arrow-left span:nth-child(2){

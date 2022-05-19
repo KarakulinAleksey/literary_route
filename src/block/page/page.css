@@ -1,13 +1,21 @@
 .page{
   display: grid;
-  grid-template-columns: 80% 20%;
-  grid-template-rows: 10% 90%;
+  grid-template-columns:84% 16%;
+  grid-template-rows: 12% 88%;
   max-width: 1280px;
   width: auto;
   /* height: 100vh; */
   /* background-color: bisque; */
   margin-left: auto;
   margin-right: auto;
+  /* padding: 20px; */
   box-sizing: border-box;
   aspect-ratio: 4/3;
 }
+
+/* @media screen and (max-width: 848px) {
+  .header__subtitle {
+    grid-template-columns: 100%;
+    grid-template-rows: 12% 88% ;
+  }
+} */

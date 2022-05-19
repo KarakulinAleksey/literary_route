@@ -25,4 +25,12 @@
        url("./inter-900.woff") format("woff");
 }
 
+@font-face {
+  font-family: 'good-vibes-pro';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./good-vibes-pro.woff") format("woff2"),
+       url("./good-vibes-pro.woff2") format("woff");
+}
 

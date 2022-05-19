@@ -6,10 +6,11 @@
 
 @import url('../block/header/header.css');
 @import url('../block/header/__title/header__title.css');
+@import url('../block/header/__title/_font/header__title_font.css');
 @import url('../block/header/__subtitle/header__subtitle.css');
 
 @import url('../block/image-block/image-block.css');
-@import url('../block/image-block/__item/image-block__item.css');
+@import url('../block/image-block/__point/image-block__point.css');
 @import url('../block/image-block/__animation/image-block__animation_point.css');
 @import url('../block/image-block/__animation/image-block__animation_arrow.css');
 @import url('../block/image-block/__animation/image-block__animation_arrow-left.css');
@@ -17,3 +18,41 @@
 @import url('../block/menu/menu.css');
 @import url('../block/menu/__text-block/menu__text-block.css');
 @import url('../block/menu/__text-block/_item/menu__text-block_item.css');
+
+@import url('../block/position-item/position-item-1.css');
+@import url('../block/position-item/position-item-2.css');
+@import url('../block/position-item/position-item-3.css');
+@import url('../block/position-item/position-item-4.css');
+@import url('../block/position-item/position-item-5.css');
+@import url('../block/position-item/position-item-6.css');
+@import url('../block/position-item/position-item-7.css');
+@import url('../block/position-item/position-item-8.css');
+@import url('../block/position-item/position-item-9.css');
+@import url('../block/position-item/position-item-10.css');
+@import url('../block/position-item/position-item-11.css');
+@import url('../block/position-item/position-item-12.css');
+@import url('../block/position-item/position-item-13.css');
+@import url('../block/position-item/position-item-14.css');
+@import url('../block/position-item/position-item-15.css');
+@import url('../block/position-item/position-item-16.css');
+@import url('../block/position-item/position-item-17.css');
+@import url('../block/position-item/position-item-18.css');
+@import url('../block/position-item/position-item-19.css');
+@import url('../block/position-item/position-item-20.css');
+@import url('../block/position-item/position-item-21.css');
+@import url('../block/link-point/link-point.css');
+
+@import url('../block/popup/popup.css');
+@import url('../block/popup/__conteiner/popup__conteiner.css');
+@import url('../block/popup/__title/popup__title-in.css');
+@import url('../block/popup/__title/popup__title-out.css');
+@import url('../block/popup/__timetable/popup__timetable-in.css');
+@import url('../block/popup/__timetable/popup__timetable-out.css');
+@import url('../block/popup/__date/popup__date-in.css');
+@import url('../block/popup/__date/popup__date-out.css');
+@import url('../block/popup/__name/popup__name-in.css');
+@import url('../block/popup/__name/popup__name-out.css');
+@import url('../block/popup/__adress/popup__adress-in.css');
+@import url('../block/popup/__adress/popup__adress-out.css');
+@import url('../block/popup/__conteiner/_button-exit/popup__conteiner_button-exit.css');
+@import url('../block/popup/__show/popup__show.css');
