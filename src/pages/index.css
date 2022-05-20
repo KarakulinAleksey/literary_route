@@ -14,6 +14,9 @@
 @import url('../block/image-block/__animation/image-block__animation_point.css');
 @import url('../block/image-block/__animation/image-block__animation_arrow.css');
 @import url('../block/image-block/__animation/image-block__animation_arrow-left.css');
+@import url('../block/image-block/__animation/image-block__animation_arrow-left-red.css');
+@import url('../block/image-block/__arrow/image-block__arrow.css');
+@import url('../block/image-block/__arrow/_position/image-block__arrow_position.css');
 
 @import url('../block/menu/menu.css');
 @import url('../block/menu/__text-block/menu__text-block.css');

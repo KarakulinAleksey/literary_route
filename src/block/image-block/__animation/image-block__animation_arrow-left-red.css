@@ -1,0 +1,94 @@
+@keyframes arrow-left {
+  0%{
+      opacity: 0;
+      transform: rotate(45deg) translate(-0px,-0px);
+  }
+  50%{
+      opacity: 0.5;
+  }
+  100%{
+      opacity: 1;
+      transform: rotate(45deg) translate(0px,0px);
+  }
+}
+
+.image-block__animation_arrow-left-red{
+  display: flex;
+  position: absolute;
+  left: 42%;
+  top: 53%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 1.5%;
+  height: 39%;
+  transform: rotate(264deg);
+}
+
+.image-block__animation_arrow-left-red span{
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-top: 2px solid #ff3142;
+  border-left: 2px solid #ff3142;
+  /* margin: 4px; */
+  animation: arrow-left 1s infinite;
+  /* float: left; */
+  float: none;
+}
+
+.image-block__animation_arrow-left-red span:nth-child(2){
+  animation-delay: -0.1s;
+}
+.image-block__animation_arrow-left-red span:nth-child(3){
+  animation-delay: -0.2s;
+}
+.image-block__animation_arrow-left-red span:nth-child(4){
+  animation-delay: -0.3s;
+}
+.image-block__animation_arrow-left-red span:nth-child(5){
+  animation-delay: -0.4s;
+}
+.image-block__animation_arrow-left-red span:nth-child(6){
+  animation-delay: -0.5s;
+}
+.image-block__animation_arrow-left-red span:nth-child(7){
+  animation-delay: -0.7s;
+}
+.image-block__animation_arrow-left-red span:nth-child(8){
+  animation-delay: -0.8s;
+}
+.image-block__animation_arrow-left-red span:nth-child(9){
+  animation-delay: -0.9s;
+}
+.image-block__animation_arrow-left-red span:nth-child(10){
+  animation-delay: -0.10s;
+}
+.image-block__animation_arrow-left-red span:nth-child(11){
+  animation-delay: -0.11s;
+}
+.image-block__animation_arrow-left-red span:nth-child(12){
+  animation-delay: -0.12s;
+}
+.image-block__animation_arrow-left-red span:nth-child(13){
+  animation-delay: -0.13s;
+}
+.image-block__animation_arrow-left-red span:nth-child(14){
+  animation-delay: -0.14s;
+}
+.image-block__animation_arrow-left-red span:nth-child(15){
+  animation-delay: -0.15s;
+}
+.image-block__animation_arrow-left-red span:nth-child(16){
+  animation-delay: -0.16s;
+}
+.image-block__animation_arrow-left-red span:nth-child(17){
+  animation-delay: -0.17s;
+}
+.image-block__animation_arrow-left-red span:nth-child(18){
+  animation-delay: -0.18s;
+}
+.image-block__animation_arrow-left-red span:nth-child(19){
+  animation-delay: -0.19s;
+}
+

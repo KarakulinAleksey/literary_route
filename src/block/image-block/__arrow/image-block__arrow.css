@@ -1,0 +1,5 @@
+.image-block__arrow {
+  position: absolute;
+  width: 20%;
+  transform: rotate(357deg);
+}
