@@ -6,8 +6,10 @@
   width: auto;
   /* height: 100vh; */
   /* background-color: #ffffe0; */
-
-  background: radial-gradient( #d8d856,white);
+  background-image: url(../../image/1643911239_15-phonoteka-org-p-fon-nezhnii-knigi-24.png);
+  background-size: cover;
+  background-position: top;
+  /* background: radial-gradient( #d8d856,white); */
   background-repeat: no-repeat;
   margin-left: auto;
   margin-right: auto;

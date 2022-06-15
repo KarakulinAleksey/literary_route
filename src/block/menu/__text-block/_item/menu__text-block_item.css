@@ -7,7 +7,7 @@
   line-height: 16px;
 }
 
-.menu__text-block_item:hover {
+.menu__text-block_item:not(:first-child):hover {
   opacity: 0.6;
 }
 
