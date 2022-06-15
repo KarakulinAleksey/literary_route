@@ -5,7 +5,10 @@
   max-width: 1280px;
   width: auto;
   /* height: 100vh; */
-  background-color: #ffffe0;
+  /* background-color: #ffffe0; */
+
+  background: radial-gradient( #d8d856,white);
+  background-repeat: no-repeat;
   margin-left: auto;
   margin-right: auto;
   /* padding: 20px; */
