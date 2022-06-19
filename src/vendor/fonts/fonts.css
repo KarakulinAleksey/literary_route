@@ -30,7 +30,15 @@
   font-style:  normal;
   font-weight: 400;
   font-display: swap;
-  src: url("./good-vibes-pro.woff") format("woff2"),
-       url("./good-vibes-pro.woff2") format("woff");
+  src: url("./good-vibes-pro.woff2") format("woff2"),
+       url("./good-vibes-pro.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'digit';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./a_lcdnova.woff") format("woff");
 }
 

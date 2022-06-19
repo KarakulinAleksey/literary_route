@@ -1,8 +1,10 @@
 .popup__conteiner{
   display: grid;
   justify-content: stretch;
-  grid-template-columns: 35% 25% 40%;
-  grid-template-rows: repeat(3, 33.3%);
+  /* grid-template-columns: 35% 25% 40%; */
+  /* grid-template-rows: repeat(3, 33.3%); */
+  grid-template-columns: 24% 19% 57%;
+  grid-template-rows: repeat(3, 24.3%);
   background-color: #fff;
   min-width: 320px;
 
@@ -10,12 +12,16 @@
   max-width: 700px;
   border-radius: 10px;
   position: relative;
-  /* background-image: url(../../../image/popupBook.jpeg); */
+  background-image: url(../../../image/backGroundPopup.png);
+  /* background-image: url(../../../image/1649924521267-3.+Гайдара-Читайка.png); */
   background-size: contain;
   background-repeat: no-repeat;
   border: 1px solid blue;
   box-sizing: border-box;
   font-size: 16px;
+  font-family: "digit", sans-serif, Arial;
+  font-style: normal;
+  aspect-ratio: 9/4;
 }
 
 

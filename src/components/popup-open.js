@@ -45,72 +45,72 @@ popupExit.addEventListener('click', ()=>{
 
 point_1.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '1.06.2022';
-  popupDateOut.textContent = '17.07.2022';
-  popupNameIn.textContent = 'д/с Красная шапочка';
-  popupNameOut.textContent = 'д/с Аленький цветочек';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupDateIn.textContent = '01.07.2022';
+  popupDateOut.textContent = '10.07.2022';
+  popupNameIn.textContent = '«Мозаика»';
+  popupNameOut.textContent = '«Семицветик»';
+  popupAdressIn.textContent = 'ул.Куюргазинская, 2«б»';
+  popupAdressOut.textContent = 'ул.Окружная, 2«а»';
 })
 
 point_2.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '2.06.2022';
+  popupDateIn.textContent = '11.07.2022';
   popupDateOut.textContent = '17.07.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул.Окружная, 2«а»';
+  popupAdressOut.textContent = ', ул.Машиностроителей, 1«а»';
 })
 
 point_3.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '3.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '18.07.2022';
+  popupDateOut.textContent = '24.07.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул.Машиностроителей, 1«а»';
+  popupAdressOut.textContent = 'ул. Калинина, 8';
 })
 
 point_4.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '4.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '01.08.2022';
+  popupDateOut.textContent = '07.08.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул. Калинина, 8';
+  popupAdressOut.textContent = 'ул.М.Горького, 25/1';
 })
 
 point_5.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '5.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '08.08.2022 ';
+  popupDateOut.textContent = '14.08.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул.М.Горького, 25/1';
+  popupAdressOut.textContent = 'ул. Окружная, 3«а»';
 })
 
 point_6.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '6.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '15.08.2022 ';
+  popupDateOut.textContent = '21.08.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул. Окружная, 3«а»';
+  popupAdressOut.textContent = 'ул. Молодежная, 5';
 })
 
 point_7.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '7.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '12.09.2022';
+  popupDateOut.textContent = '18.09.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул. Матросова, 1в';
+  popupAdressOut.textContent = 'ул. Горького, 20';
 })
 
 point_8.addEventListener('click', ()=>{
@@ -125,42 +125,42 @@ point_8.addEventListener('click', ()=>{
 
 point_9.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '9.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '24.10.2022 ';
+  popupDateOut.textContent = '06.11.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'с.Ира ул. 70 лет Октября, 33';
+  popupAdressOut.textContent = 'п.Маячный, ул. Горького, 14';
 })
 
 point_10.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '10.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '12.09.2022';
+  popupDateOut.textContent = '18.09.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Аленький цветочек';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = '60 лет БАССР, 14 «а»';
+  popupAdressOut.textContent = 'п.Маячный, ул. Матросова, 1в';
 })
 
 point_11.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '11.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '19.09.2022';
+  popupDateOut.textContent = '25.09.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул. Горького, 20';
+  popupAdressOut.textContent = 'ул.Машиностроителей, 6а';
 })
 
 point_12.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '12.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '01.10.2022';
+  popupDateOut.textContent = '09.10.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул.Машиностроителей, 6а';
+  popupAdressOut.textContent = 'ул. Комсомольская, 21';
 })
 
 point_13.addEventListener('click', ()=>{
@@ -175,80 +175,80 @@ point_13.addEventListener('click', ()=>{
 
 point_14.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '14.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '24.10.2022';
+  popupDateOut.textContent = '06.11.2022';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'с.Маячный, ул. Горького, 14';
+  popupAdressOut.textContent = 'ул. К.Маркса, 25';
 })
 
 point_15.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '15.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '08.11.2022';
+  popupDateOut.textContent = '';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул. Машиностроителей, 6А';
+  popupAdressOut.textContent = 'ул. Вокзальная, 26';
 })
 
 point_16.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '16.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '03.11.2022';
+  popupDateOut.textContent = '';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул.40 лет Победы, 32';
+  popupAdressOut.textContent = 'п.Маячный, ул. К. Советская, 13';
 })
 
 point_17.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '17.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '02.11.2022';
+  popupDateOut.textContent = '';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул.Ленина, 27';
+  popupAdressOut.textContent = 'ул.40 лет Победы, 32';
 })
 
 point_18.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '18.06.2022';
-  popupDateOut.textContent = '17.07.2022';
-  popupNameIn.textContent = 'д/с Красная шапочка';
-  popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupDateIn.textContent = '01.11.2022';
+  popupDateOut.textContent = '';
+  popupNameIn.textContent = 'ДЦ чтения и творчества «Мозаика»';
+  popupNameOut.textContent = 'ДЦ лит-ного развития «Семицветик»';
+  popupAdressIn.textContent = 'ул.К.Маркса, 25';
+  popupAdressOut.textContent = 'ул.Ленина, 27';
 })
 
 point_19.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '19.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '10.11.2022';
+  popupDateOut.textContent = '';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'с.Ира, ул. Молодежная, 18';
+  popupAdressOut.textContent = '';
 })
 
 point_20.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '20.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '07.11.2022';
+  popupDateOut.textContent = '';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'п.Маячный, ул. К. Советская, 13';
+  popupAdressOut.textContent = 'ул.Машиностроителей, 6А';
 })
 
 point_21.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
-  popupDateIn.textContent = '21.06.2022';
-  popupDateOut.textContent = '17.07.2022';
+  popupDateIn.textContent = '09.11.2022';
+  popupDateOut.textContent = '';
   popupNameIn.textContent = 'д/с Красная шапочка';
   popupNameOut.textContent = 'д/с Дюймовочка';
-  popupAdressIn.textContent = 'ул.Куюргазинская 2-б';
-  popupAdressOut.textContent = 'ул.Окружная 2-а';
+  popupAdressIn.textContent = 'ул. Вокзальная, 26';
+  popupAdressOut.textContent = 'с.Ира, ул. Молодежная, 18';
 })
