@@ -1,5 +1,7 @@
 @import url('../vendor/normalize.css');
 @import url('../vendor/fonts/fonts.css');
+@import url('../block/page/page__font/page__font-bold.css');
+@import url('../block/page/page__font/page__font-italic.css');
 
 @import url('../block/page/page.css');
 @import url('../block/page/page__font/page__font.css');

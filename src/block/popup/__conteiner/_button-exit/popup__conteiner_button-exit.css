@@ -28,3 +28,11 @@
     margin-left: 490px;
   }
 }
+
+@media screen and (max-width: 450px) {
+  .popup__conteiner_button-exit {
+    width: 10px;
+    height: 10px;
+    right: 0;
+  }
+}
