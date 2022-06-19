@@ -25,3 +25,10 @@
     margin-top: 20px;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .header__title {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+}
