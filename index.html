@@ -9,12 +9,12 @@
     <meta name="author" content="Karakulin Aleksey" />
     <link rel="stylesheet" href="./src/pages/index.css" />
     <link rel="icon" href="./src/image/book-opened.svg" />
-    <title>Map</title>
+    <title>Литературный экспресс в Кумертау</title>
   </head>
 
   <body class="page">
     <section class="header">
-      <img
+      <!-- <img
         src="./src/image/MINCULT_RUS_RGB.png"
         alt="точка"
         class="header__logo"
@@ -28,7 +28,7 @@
         src="./src/image/zvezda_panton.png"
         alt="точка"
         class="header__logo"
-      />
+      /> -->
       <div class="header__title-block">
         <h1 class="header__title header__title_font">
           Литературный экспресс в Кумертау
@@ -42,7 +42,7 @@
         <img
           src="./src/image/point.png"
           alt="точка"
-          class="image-block__animation_point position-item-1"
+          class="image-block__point position-item-1"
         />
       </a>
       <a href="#" class="link-point">
@@ -63,7 +63,7 @@
         <img
           src="./src/image/point.png"
           alt="точка"
-          class="image-block__animation_point position-item-4"
+          class="image-block__point position-item-4"
         />
       </a>
       <a href="#" class="link-point">
@@ -91,7 +91,7 @@
         <img
           src="./src/image/point.png"
           alt="точка"
-          class="image-block__animation_point position-item-8"
+          class="image-block__point position-item-8"
         />
       </a>
       <a href="#" class="link-point">
@@ -161,7 +161,7 @@
         <img
           src="./src/image/point.png"
           alt="точка"
-          class="image-block__point position-item-18"
+          class="image-block__animation_point position-item-18"
         />
       </a>
       <a href="#" class="link-point">
@@ -175,7 +175,7 @@
         <img
           src="./src/image/point.png"
           alt="точка"
-          class="image-block__animation_point position-item-20"
+          class="image-block__point position-item-20"
         />
       </a>
       <a href="#" class="link-point">
@@ -195,7 +195,7 @@
         <span></span>
       </div>
 
-      <div class="image-block__animation_arrow-left-red">
+      <!-- <div class="image-block__animation_arrow-left-red">
         <span></span>
         <span></span>
         <span></span>
@@ -214,28 +214,18 @@
         <span></span>
         <span></span>
         <span></span>
-      </div>
+      </div> -->
 
-      <img
+      <!-- <img
         src="./src/image/arrow.png"
         alt="стрелка"
         class="image-block__arrow image-block__arrow_position"
-      />
+      /> -->
     </section>
 
-    <ul class="menu page__font">
-      <li class="menu__text-block">
-        <p class="menu__text-block_item">Список книг:</p>
-      </li>
-      <li class="menu__text-block">
-        <a
-          class="menu__text-block_item text-light"
-          href="https://docs.google.com/document/d/1b5uSMuiyskiRaamhl0o1eLCTUWdvtrnu/edit?usp=sharing&ouid=113511098466093218703&rtpof=true&sd=true"
-          target="_blank"
-          >1 маршрут</a
-        >
-      </li>
-      <li class="menu__text-block">
+    <section class="info-block">
+
+        <!-- <li class="menu__text-block">
         <a
           class="menu__text-block_item text-light"
           href="http://"
@@ -250,11 +240,44 @@
           target="_blank"
           >3 маршрут</a
         >
-      </li>
-    </ul>
+      </li> -->
+      </ul>
+
+      <div class="logo-block">
+        <img
+          src="./src/image/MINCULT_RUS_RGB.png"
+          alt="логотип министерство культуры"
+          class="logo"
+        />
+        <img
+          src="./src/image/LogoBlueW.png"
+          alt="логотип национальные проекты россии"
+          class="logo"
+        />
+        <img
+          src="./src/image/zvezda_panton.png"
+          alt="логотип российский фонд культуры"
+          class="logo"
+        />
+      </div>
+
+      <ul class="menu page__font">
+        <li class="menu__text-block">
+          <p class="menu__text-block_item">Список книг:</p>
+        </li>
+        <li class="menu__text-block">
+          <a
+            class="menu__text-block_item text-light"
+            href="https://docs.google.com/document/d/1b5uSMuiyskiRaamhl0o1eLCTUWdvtrnu/edit?usp=sharing&ouid=113511098466093218703&rtpof=true&sd=true"
+            target="_blank"
+            >1 маршрут</a
+          >
+        </li>
+
+    </section>
 
     <div class="popup">
-      <div class="popup__conteiner page__font ">
+      <div class="popup__conteiner page__font">
         <button
           type="button"
           class="popup__conteiner_button-exit"
@@ -264,12 +287,12 @@
         <!-- <p class="popup__title-out page__font-bold">☜ Пункт назначения ☜</p> -->
         <!-- <p class="popup__timetable-in page__font-bold">★彡 Прибытие 彡★</p> -->
         <!-- <p class="popup__timetable-out page__font-bold">⛵ Отправление ⛵</p> -->
-        <p class="popup__date-in ">27.06.2022</p>
-        <p class="popup__date-out ">17.07.2022</p>
-        <p class="popup__name-in ">д/с "Айгуль"</p>
-        <p class="popup__adress-in ">ул.Куюргазинская 2-б</p>
-        <p class="popup__name-out ">д/с "Дюймовочка"</p>
-        <p class="popup__adress-out ">ул.Окружная 2-а</p>
+        <p class="popup__date-in">27.06.2022</p>
+        <p class="popup__date-out">17.07.2022</p>
+        <p class="popup__name-in">д/с "Айгуль"</p>
+        <p class="popup__adress-in">ул.Куюргазинская 2-б</p>
+        <p class="popup__name-out">д/с "Дюймовочка"</p>
+        <p class="popup__adress-out">ул.Окружная 2-а</p>
       </div>
     </div>
     <script src="./src/components/popup-open.js"></script>

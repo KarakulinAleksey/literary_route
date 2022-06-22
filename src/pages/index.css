@@ -8,7 +8,6 @@
 
 @import url('../block/header/header.css');
 @import url('../block/header/__title-block/header__title-block.css');
-@import url('../block/header/__logo/header__logo.css');
 @import url('../block/header/__title/header__title.css');
 @import url('../block/header/__title/_font/header__title_font.css');
 @import url('../block/header/__subtitle/header__subtitle.css');
@@ -63,3 +62,7 @@
 @import url('../block/popup/__adress/popup__adress-out.css');
 @import url('../block/popup/__conteiner/_button-exit/popup__conteiner_button-exit.css');
 @import url('../block/popup/__show/popup__show.css');
+
+@import url('../block/info-block/info-block.css');
+@import url('../block/logo/logo.css');
+@import url('../block/logo/logo-block.css');

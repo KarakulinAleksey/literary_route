@@ -3,8 +3,9 @@
   text-decoration: none;
   color: #000;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 16px;
+  margin-bottom: 10%;
 }
 
 .menu__text-block_item:not(:first-child):hover {
