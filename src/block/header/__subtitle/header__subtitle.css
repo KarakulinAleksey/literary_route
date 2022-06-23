@@ -4,6 +4,11 @@
   font-size: 27px;
   line-height: 16px;
   margin-top: 32px;
+  color:#BF7033;
+  text-shadow: 0 0 10px white,
+  0 0 7px white,
+  0 0 10px white,
+  0 0 13px white;
 }
 
 @media screen and (max-width: 848px) {

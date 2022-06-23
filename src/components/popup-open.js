@@ -178,7 +178,7 @@ point_14.addEventListener('click', ()=>{
   popupDateIn.textContent = '24.10.2022';
   popupDateOut.textContent = '06.11.2022';
   popupNameIn.textContent = 'СОШ №8';
-  popupNameOut.textContent = 'Библиотека №4 «Мозайка»';
+  popupNameOut.textContent = 'Библиотека №4 «Мозаика»';
   popupAdressIn.textContent = 'с.Маячный, ул. Горького, 14';
   popupAdressOut.textContent = 'ул. К.Маркса, 25';
 })
@@ -217,7 +217,7 @@ point_18.addEventListener('click', ()=>{
   popup.classList.add("popup_show");
   popupDateIn.textContent = '13.06.2022';
   popupDateOut.textContent = '20.06.2022';
-  popupNameIn.textContent = 'Библиотека №4 «Мозайка»';
+  popupNameIn.textContent = 'Библиотека №4 «Мозаика»';
   popupNameOut.textContent = 'Библиотека «Семицветик»';
   popupAdressIn.textContent = 'ул.К.Маркса, 25';
   popupAdressOut.textContent = 'ул.Ленина, 27';
