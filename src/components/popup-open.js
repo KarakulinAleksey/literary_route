@@ -188,7 +188,7 @@ point_15.addEventListener('click', ()=>{
   popupDateIn.textContent = '08.11.2022';
   popupDateOut.textContent = '';
   popupNameIn.textContent = 'Библиотека №1 «Навигатор»';
-  popupNameOut.textContent = 'Библиотека №19';
+  popupNameOut.textContent = 'Библиотека №9';
   popupAdressIn.textContent = 'ул. Машиностроителей, 6А';
   popupAdressOut.textContent = 'ул. Вокзальная, 26';
 })
