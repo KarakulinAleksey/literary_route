@@ -15,14 +15,14 @@
 .image-block__animation_arrow-left{
   display: flex;
   position: absolute;
-  left: 59%;
-  top: 39%;
+  left: 71%;
+  top: 25%;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
   width: 1%;
-  height: 25%;
-  transform: rotate(63deg);
+  height: 19%;
+  transform: rotate(13deg);
 }
 
 .image-block__animation_arrow-left span{
